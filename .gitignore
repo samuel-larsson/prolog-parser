@@ -1,0 +1,16 @@
+
+*.out
+
+*.trc
+
+testok1.pas
+
+testok1head.pas
+
+LabEx1.pl
+
+ParserDemo.out.txt
+
+cmreader.txt
+
+cmreader.pl
